@@ -1,2 +1,2 @@
 # Open-Digital-Fabrication-Projects
-Open Repository of Digital Fabrication Projects
+Open Repository for Digital Fabrication Projects
